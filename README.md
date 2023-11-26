@@ -9,7 +9,7 @@ I'm Zafar from Uzbekistan, I am Front-End Developer (A Front-End Developer is so
 * 💻 HTML, CSS, JS
 
 ## Work
-- 🔭 I’m currently working on My own company 
+- 🔭 I’m currently working on my own company 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/za1ar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/za1ar.01/)  
