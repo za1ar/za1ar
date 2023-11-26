@@ -8,6 +8,7 @@ I'm Zafar from Uzbekistan, I am Front-End Developer (A Front-End Developer is so
 * 📱 React Native
 * 💻 HTML, CSS, JS
 
+## Work
 - 🔭 I’m currently working on My own company 
 
 
