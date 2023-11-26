@@ -1,4 +1,4 @@
-## Hi, there 👋
+### Hi, there! 👋
 
 ### Zafar Bozorov
 I'm Zafar from Uzbekistan, I am Front-End Developer (A Front-End Developer is someone who creates websites and web applications.). I really enjoy learning languages, going gym, swimming and coding.
