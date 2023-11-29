@@ -1,6 +1,6 @@
 ## Hi, there! 👋
 
-![](https://github.com/za1ar/za1ar/blob/main/1%20(5).png)
+![](https://github.com/za1ar/za1ar/blob/main/What-is-Frontend-Development.jpg)
 
 ## Zafar Bozorov
 I'm Zafar from Uzbekistan, I am Front-End Developer (A Front-End Developer is someone who creates websites and web applications.). 
