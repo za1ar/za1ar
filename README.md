@@ -6,12 +6,12 @@
 I'm Zafar from Uzbekistan, I am Front-End Developer (A Front-End Developer is someone who creates websites and web applications.). 
 I really enjoy learning languages, going gym, swimming and coding.
 
-### Skills and Experience
+## Skills and Experience
 * ⚛ React
 * 📱 React Native
 * 💻 HTML, CSS, JS
 
-#### Work
+## Work
 - 🔭 I’m currently working on my own company 
 
 
