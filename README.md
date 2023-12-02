@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zafar Bozorov</h1>
-<img width="400" hieght="350" align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img width="400" hieght="320" align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <h3 align="center">I'm Zafar from Uzbekistan, I am Front-End Developer (A Front-End Developer is someone who creates websites and web applications.). I really enjoy learning languages, going gym, swimming and coding.</h3>
 
 
