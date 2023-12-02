@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zafar Bozorov</h1>
 <h3 align="center">I'm Zafar from Uzbekistan, I am Front-End Developer (A Front-End Developer is someone who creates websites and web applications.). I really enjoy learning languages, going gym, swimming and coding.</h3>
+![](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)
+
 
 - 🔭 I’m currently working on **my own company**
 
