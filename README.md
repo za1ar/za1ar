@@ -1,12 +1,3 @@
-<h1 align="center">Zafar</h1>
-<img width="350" height="200"  align="right" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<h3 align="center"></h3>
-
-
-
-
-- [https://github.com/za1ar](https://github.com/za1ar)
-
 
 ## Skills and Experience
 * ⚛ React
